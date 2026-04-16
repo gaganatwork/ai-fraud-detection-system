@@ -1,0 +1,8 @@
+target/
+.vscode/
+.idea/
+*.iml
+data/
+fraud-detection-share/
+fraud-detection-share.zip
+__pycache__/
